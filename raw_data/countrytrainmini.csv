@@ -1,0 +1,13 @@
+﻿Country,Capital,Latitude,Longitude,Code,Continent
+Austria,Vienna,48.2,16.366667,AT,Europe
+Denmark,Copenhagen,55.66666667,12.583333,DK,Europe
+Finland,Helsinki,60.16666667,24.933333,FI,Europe
+France,Paris,48.86666667,2.333333,FR,Europe
+Australia,Canberra,-35.26666667,149.133333,AU,Australia
+Cocos Islands,West Island,-12.16666667,96.833333,CC,Australia
+New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+Norfolk Island,Kingston,-29.05,167.966667,NF,Australia
+Bangladesh,Dhaka,23.71666667,90.4,BD,Asia
+Bhutan,Thimphu,27.46666667,89.633333,BT,Asia
+China,Beijing,39.91666667,116.383333,CN,Asia
+India,New Delhi,28.6,77.2,IN,Asia

@@ -1,0 +1,29 @@
+key,landmark,city,district_gu,section_dong,longitude,latitude,label
+BE_IW01-0092,Hwarangno fallen leaves street,Seoul,Nowon-gu,Gongneung2-dong,127.0876934,37.63059272,Gangbuk
+BE_IW01-0100,Ihwa Village,Seoul,Jongno-gu,Ihwa-dong,127.0054113,37.592,Gangbuk
+BE_IW01-0003,Dulle-gil Course 1,Seoul,Seongbuk-gu,Jeongneung3-dong,126.9973949,37.61689423,Gangbuk
+BE_IW01-0117,Seongbukdong-gil,Seoul,Seongbuk-gu,Seongbuk-dong,126.9921505,37.59692086,Gangbuk
+BE_IW01-0106,Nagwond-dong,Seoul,Jongno-gu,Jongno1.2.3.4ga-dong,126.9873802,37.61,Gangbuk
+BE_IW01-0110,Jewelry Street,Seoul,Jongno-gu,Jongno1.2.3.4ga-dong,126.9873802,37.59,Gangbuk
+BE_IW01-0089,Gyedong-gil,Seoul,Jongno-gu,Gahoe-dong,126.9848066,37.58261238,Gangbuk
+BE_IW01-0099,Samcheongdong-gil Road,Seoul,Jongno-gu,Samcheong-dong,126.9803912,37.58280995,Gangbuk
+BE_IW01-0114,Cheongwadaeap-gil,Seoul,Jongno-gu,Cheongunhyoja-dong,126.9684555,37.58967293,Gangbuk
+BE_IW01-0104,Cheonho design street,Seoul,Gangdong-gu,Seongnae1-dong,127.1288977,37.54,Gangdong
+BE_IW01-0091,Geondae taste Street,Seoul,Gwangjin-gu,Hwayang-dong,127.09,37.54332193,Gangdong
+BE_IW01-0093,Rodeo Street,Seoul,Seongdong-gu,Yongdap-dong,127.08,37.54,Gangdong
+BE_IW01-0025,Munjeong-dong Rodeo Street,Seoul,Songpa-gu,Munjeong2-dong,127.122104,37.48540435,Gangnam
+BE_IW01-0024,Seokchonhosu-gil,Seoul,Songpa-gu,Seokchon-dong,127.1040253,37.50396436,Gangnam
+BE_IW01-0096,Hemingway,Seoul,Seocho-gu,Banpo4-dong,127.05,37.50469491,Gangnam
+BE_IW01-0098,Seorae Villag Cafe Street,Seoul,Seocho-gu,Banpo4-dong,127.05,37.50469491,Gangnam
+BE_IW01-0111,Rodeo Street,Seoul,Gangnam-gu,Apgujeong-dong,127.04,37.47,Gangnam
+BE_IW01-0105,Garosu-gild Road,Seoul,Gangnam-gu,Apgujeong-dong,127.0292316,37.46,Gangnam
+BE_IW01-0002,Gangnam Station food alley,Seoul,Seocho-gu,Seocho1-dong,127.0164271,37.48851171,Gangnam
+BE_IW01-0107,Hyeonchungno,Seoul,Dongjak-gu,Sadang2-dong,126.9536046,37.50068791,Gangseo
+BE_IW01-0101,Ahyeon Coin Alley,Seoul,Mapo-gu,Ahyeon-dong,126.9560892,37.53,Gangseo
+BE_IW01-0087,Hongik Univ Street of Art,Seoul,Mapo-gu,Daheung-dong,126.958,37.53,Gangseo
+BE_IW01-0027,Pedestrian-Friendly Culture Street,Seoul,Gwanak-gu,Samseong-dong,126.9345984,37.4632016,Gangseo
+BE_IW01-0090,Gwanak-gu design street,Seoul,Gwanak-gu,Jungang-dong,126.92,37.48294081,Gangseo
+BE_IW01-0094,Teenager Culture Street,Seoul,Yangcheon-gu,Mok5-dong,126.8758937,37.52,Gangseo
+BE_IW01-0095,The street of peace,Seoul,Yangcheon-gu,Mok5-dong,126.8758937,37.52,Gangseo
+BE_IW01-0103,The street of studies,Seoul,Yangcheon-gu,Mok5-dong,126.8758937,37.52,Gangseo
+BE_IW01-0116,The street of love,Seoul,Yangcheon-gu,Sinjeong6-dong,126.8629865,37.5165772,Gangseo
